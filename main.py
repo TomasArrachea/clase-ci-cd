@@ -1,1 +1,1 @@
-failprint("Hola Mundo")
+print("Hola Mundo")
